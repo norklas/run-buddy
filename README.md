@@ -1,4 +1,4 @@
-# Run Buddy, Inc.
+# Run Buddy, Inc
 
 ## Purpose
 
@@ -16,3 +16,5 @@ https://norklas.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Nick Melanson
+
+## ©️2019 Run Buddy, Inc
